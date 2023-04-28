@@ -47,7 +47,7 @@
 
 .seta-voltar {
     left: 2%;
-    /* transform: rotateY(180deg); */
+    transform: rotateY(180deg);
 }
 
 .seta-avancar {
@@ -83,18 +83,18 @@
     font-weight: 700;
 }
 
-.rosa {
+.botao.rosa {
     color: #C50000;
 }
 
-.verde {
+.botao.verde {
     color: #D9DD10;
 }
 
-.laranja {
+.botao.laranja {
     color: #A63A17;
 }
 
-.azul {
+.botao.azul {
     color: #10ACDD;
 }
